@@ -1,0 +1,14 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avaliação do Chatbot Otimizador de Primeira Classe"
+    id="b7e435a7-eda5-4193-8cdc-b7be26a0ac0d"
+    documentation="A avaliação é que o produto não está convertendo os acessos, ou interações, em visitas concretas nas unidades dos empreendimentos."
+    strength="(-)">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_634d2676-df08-4bcb-bcf5-25ee12919950.xml#634d2676-df08-4bcb-bcf5-25ee12919950"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_922f7746-8f08-488a-8423-c9526f43f898.xml#922f7746-8f08-488a-8423-c9526f43f898"/>
+</archimate:InfluenceRelationship>

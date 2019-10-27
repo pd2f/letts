@@ -1,0 +1,14 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avaliação sobre atendimentos do mercado"
+    id="fd9ed68e-46a6-4e81-8c8b-9e7dc659641c"
+    documentation="A avaliação dos profissionais e incorporadoras que atendem os interessados na compra é que não conseguem obter informações e conduzir a relação de forma eficiente."
+    strength="( + )">
+  <source
+      xsi:type="archimate:Assessment"
+      href="Assessment_5beff9d4-4bab-4d2a-ad5d-52380860a4d3.xml#5beff9d4-4bab-4d2a-ad5d-52380860a4d3"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_f4e1e6c4-cc38-4095-92b5-7fc561a559f8.xml#f4e1e6c4-cc38-4095-92b5-7fc561a559f8"/>
+</archimate:InfluenceRelationship>

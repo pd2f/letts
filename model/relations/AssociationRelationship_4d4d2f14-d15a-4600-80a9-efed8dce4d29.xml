@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Produto"
+    id="4d4d2f14-d15a-4600-80a9-efed8dce4d29"
+    documentation="A Letts possui um produto para atender as incorporadoras.">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_4882a1cb-bb91-4634-a3f1-bd86f0b9510a.xml#4882a1cb-bb91-4634-a3f1-bd86f0b9510a"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_922f7746-8f08-488a-8423-c9526f43f898.xml#922f7746-8f08-488a-8423-c9526f43f898"/>
+</archimate:AssociationRelationship>
