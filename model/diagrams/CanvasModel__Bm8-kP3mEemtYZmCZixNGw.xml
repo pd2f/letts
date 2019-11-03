@@ -44,6 +44,7 @@
         id="22defafe-84e6-4278-bcc9-6763605a7434"
         fillColor="#ffff95"
         content="Configuração do BOT"
+        notes="A entrada de um novo cliente deve-se instanciar um novo bot."
         locked="true"
         borderColor="#C0C0C0"
         textPosition="1">
@@ -51,6 +52,19 @@
           x="12"
           y="48"
           width="99"
+          height="69"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="eeea5ef6-8aa3-4d3b-8497-2219a65860c2"
+        fillColor="#ffff95"
+        content="Identificar interesses dos contatos"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="116"
+          y="48"
+          width="112"
           height="69"/>
     </children>
   </children>
@@ -92,12 +106,13 @@
         id="845c0381-4ea5-4986-a693-4c4610e9c457"
         fillColor="#ffff95"
         content="Conversão de leads em visitas"
+        notes="As campanhas de marketing dos empreendimentos depertam interesse do público. Os interessados passam a fornecer dados para contatos e por intermédio dos bot agendam visitas no empreendimento."
         locked="true"
         borderColor="#C0C0C0"
         textPosition="1">
       <bounds
-          x="12"
-          y="48"
+          x="4"
+          y="49"
           width="152"
           height="63"/>
     </children>
@@ -118,6 +133,46 @@
         y="12"
         width="229"
         height="289"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="d82407ab-8632-4aa1-8483-099f157e25d6"
+        fillColor="#ffff95"
+        content="Apresentação de melhor opção de investimento"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="5"
+          y="47"
+          width="103"
+          height="84"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="ed4c7a82-fc0c-405b-9d4a-6248faa11c07"
+        fillColor="#d5ff95"
+        content="Otimização de horários"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="121"
+          y="47"
+          width="87"
+          height="60"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="91a23329-3976-4991-a82c-108fcc636d27"
+        fillColor="#d5ff95"
+        content="Análise de perfil de cliente"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="127"
+          y="124"
+          width="75"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -152,6 +207,61 @@
         y="12"
         width="229"
         height="577"/>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="a46866aa-326e-4b16-aeca-24bb970a9926"
+        fillColor="#d5ff95"
+        content="Incorporadoras"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="8"
+          y="48"
+          width="93"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="8803e8a4-f9ec-4634-bac4-da210e05b51b"
+        fillColor="#d5ff95"
+        content="Corretores"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="117"
+          y="48"
+          width="83"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="6b53e742-1914-43cb-ae32-b9025a369278"
+        fillColor="#ffff95"
+        content="Investidores"
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="17"
+          y="126"
+          width="75"
+          height="63"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelSticky"
+        id="2a374dd6-a907-4e69-a223-7d3d1ce7b931"
+        fillColor="#ffff95"
+        content="Consumidores"
+        notes="Identificado como aquele que comprará para morar, ou abrir o próprio negócio na unidade em questão."
+        locked="true"
+        borderColor="#C0C0C0"
+        textPosition="1">
+      <bounds
+          x="115"
+          y="126"
+          width="88"
+          height="63"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
