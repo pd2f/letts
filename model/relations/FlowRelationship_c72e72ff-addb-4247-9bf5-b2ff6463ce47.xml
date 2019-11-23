@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="entrega"
+    id="c72e72ff-addb-4247-9bf5-b2ff6463ce47"
+    documentation="Desenhos de especificações de fluxos de atendimento do bot.">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ccc1b53b-57cf-451d-bbc7-2b486a694925.xml#ccc1b53b-57cf-451d-bbc7-2b486a694925"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fce2870c-bc33-428f-8a36-2bfa2d3bdce6.xml#fce2870c-bc33-428f-8a36-2bfa2d3bdce6"/>
+</archimate:FlowRelationship>

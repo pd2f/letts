@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="produzir"
+    id="0a49c3f5-ff57-4d30-897b-bbd867e8efa9">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_793db6fb-fafe-420b-acf6-03f73205d165.xml#793db6fb-fafe-420b-acf6-03f73205d165"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_ccc1b53b-57cf-451d-bbc7-2b486a694925.xml#ccc1b53b-57cf-451d-bbc7-2b486a694925"/>
+</archimate:AssignmentRelationship>
