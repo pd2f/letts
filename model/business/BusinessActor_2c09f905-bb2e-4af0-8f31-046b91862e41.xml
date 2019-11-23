@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atendente"
+    id="2c09f905-bb2e-4af0-8f31-046b91862e41"
+    documentation="Esse pode ser considerado o PO (product owner) no que se refere à qualidade de atendimento e dinâmica visando o propósito do chatbot."/>

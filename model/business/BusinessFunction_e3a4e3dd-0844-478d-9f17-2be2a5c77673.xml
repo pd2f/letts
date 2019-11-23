@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Atendimento"
+    id="e3a4e3dd-0844-478d-9f17-2be2a5c77673"
+    documentation="Realização do atendimento das interações direcionadas do chatbot para que seja realizado um atendimento humano, que consiga entender a intenção e direcionar ao objetivo."/>

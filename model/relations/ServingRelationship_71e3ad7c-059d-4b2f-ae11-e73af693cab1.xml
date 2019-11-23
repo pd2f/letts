@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="participa"
+    id="71e3ad7c-059d-4b2f-ae11-e73af693cab1"
+    documentation="Sugestões de estratégia de atendimento. Esclarecimentos sobre o atendimento, como por exemplo indicação de emoções e  outras sensações. Indica as dificuldades nos atendimentos e sugere melhorias.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_2c09f905-bb2e-4af0-8f31-046b91862e41.xml#2c09f905-bb2e-4af0-8f31-046b91862e41"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_cd150a2c-0b72-4027-9cc4-fc04bfd42af5.xml#cd150a2c-0b72-4027-9cc4-fc04bfd42af5"/>
+</archimate:ServingRelationship>

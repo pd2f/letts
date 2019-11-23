@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="partipa"
+    id="a7c75a56-4674-498a-91c0-f49c8573018f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_fce2870c-bc33-428f-8a36-2bfa2d3bdce6.xml#fce2870c-bc33-428f-8a36-2bfa2d3bdce6"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_cd150a2c-0b72-4027-9cc4-fc04bfd42af5.xml#cd150a2c-0b72-4027-9cc4-fc04bfd42af5"/>
+</archimate:ServingRelationship>
