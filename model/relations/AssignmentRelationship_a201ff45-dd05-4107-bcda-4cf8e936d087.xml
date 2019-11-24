@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="condutor"
+    id="a201ff45-dd05-4107-bcda-4cf8e936d087">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_793db6fb-fafe-420b-acf6-03f73205d165.xml#793db6fb-fafe-420b-acf6-03f73205d165"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_cd150a2c-0b72-4027-9cc4-fc04bfd42af5.xml#cd150a2c-0b72-4027-9cc4-fc04bfd42af5"/>
+</archimate:AssignmentRelationship>
