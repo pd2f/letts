@@ -1,0 +1,5 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Janela de conversação"
+    id="9242c967-e0a8-46fe-9888-38ad30610d3b"
+    documentation="Interface de troca de mensagens entre o atendente e o cliente."/>
