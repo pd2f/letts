@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Análise de conversas"
+    id="d2357c40-a185-4896-92fc-8add19f98fc6"
+    documentation="As conversas registradas serão analisadas para obtenção das intenções, fluxos e respostas adequadas. Busca-se a melhor instrução e direcionamento do diálogo."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Treinamento do Modelo"
+    id="d74059e1-4c60-4cf7-afa5-18c88a3e964a"
+    documentation="Treinamento do modelo de machine learning baseado na análise das conversas."/>
